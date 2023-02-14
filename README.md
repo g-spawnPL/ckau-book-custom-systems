@@ -49,6 +49,7 @@ You must use a unique <name> field when adding a new system if you wish to keep 
 ### Copyrights / Sources
 - Each brand of hardware and software here represented as a tribute.<br/>
 - All logos, trademarks and photos are copyright of their respective owners.<br/>
+- es_systems_switch.cfg generate after instal switch emulator from: https://github.com/ordovice/batocera-switch.<br/>
 
 ### Logo Notice
 
