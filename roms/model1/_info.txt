@@ -1,0 +1,17 @@
+## SYSTEM MAME ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".zip .7z"
+
+The system uses libretro mame2003 as default core: compatible ROMs must come from set 0.78
+The libretro core imame4all, based on MAME v0.37b5, is also included.
+
+Special files for mame2003 core:
+- Add your samples files in /userdata/bios/mame2003/samples/
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".zip .7z"
+
+Le système utilise le core libretro mame2003 implicitement: Les ROMs compatibles doivent provenir du set 0.78
+Le core imame4all, basé sur MAME v0.37b5 est également disponible.
+
+Fichiers spéciaux pour le core mame2003 :
+- Ajoutez vos fichiers samples dans le répertoire /userdata/bios/mame2003/samples/

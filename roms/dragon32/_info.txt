@@ -1,0 +1,7 @@
+## SYSTEM DRAGON 32/64 ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".dgn .vdk .cas .pak .zip .7z"
+
+Requires MAME BIOS file dragon32.zip
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".dgn .vdk .cas .pak .zip .7z"

@@ -1,0 +1,9 @@
+## SYSTEM AMIGA AGA ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".adf .uae .ipf .dms .dmz .adz .lha .hdf .exe .m3u .zip"
+
+For more info: https://wiki.batocera.org/systems:amiga500
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".adf .uae .ipf .dms .dmz .adz .lha .hdf .exe .m3u .zip"
+
+Trouvez la documentation ici: https://wiki.batocera.org/systems:amiga500

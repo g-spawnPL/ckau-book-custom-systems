@@ -1,0 +1,7 @@
+## SYSTEM CASIO LOOPY ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".bin .zip .7z"
+
+Requires MAME BIOS file casloopy.zip
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".bin .zip .7z"

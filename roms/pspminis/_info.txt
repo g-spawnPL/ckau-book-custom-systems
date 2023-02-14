@@ -1,0 +1,5 @@
+## SYSTEM SONY PLAYSTATION PORTABLE MINIS##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".iso .cso .pbp"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".iso .cso .pbp"

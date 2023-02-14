@@ -1,0 +1,6 @@
+## SYSTEM SPECTRAVIDEO ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".cas .zip .7z"
+
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".cas .zip .7z"

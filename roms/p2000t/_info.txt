@@ -1,0 +1,7 @@
+## SYSTEM PHILIPS P2000T ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".cas .zip .7z"
+
+Requires MAME BIOS file p2000t.zip
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".cas .zip .7z"
