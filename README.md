@@ -30,7 +30,7 @@ You must use a unique <name> field when adding a new system if you wish to keep 
 
 - CFG autor:
   - g-spawn ([@g-spawnPL](https://github.com/g-spawnPL))
-  - Thanks to [@Lendersmark](https://github.com/Lendersmark) (fork [ckau-book-enhanced](https://github.com/Lendersmark/ckau-book-enhanced)) and [@CkauNui](https://github.com/CkauNui) for helping with the project
+  - Thanks to [@Lendersmark](https://github.com/Lendersmark) and [@CkauNui](https://github.com/CkauNui) for helping with the project
 - Based on:
   - batocera system (https://wiki.batocera.org/emulationstation:customize_systems)
 
