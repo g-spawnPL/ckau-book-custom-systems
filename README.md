@@ -4,9 +4,6 @@
 <img align="right" width="200px" src="https://i.imgur.com/eCZPBDE.png">
 Emulationstation Customize ES Systems for Batocera, RetroBat, EmuELEC.<br/>
 <br/>
-
-<br/>
-<br/>
 </p>
 <p>
       <a href="https://img.shields.io/github/stars/g-spawnPL/batocera-custom-es_systems" alt="stars">
