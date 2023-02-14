@@ -23,6 +23,9 @@ EmulationStation displays systems based on a file called es_systems.cfg. In othe
 You must use a unique <name> field when adding a new system if you wish to keep the old one in addition. However, if using duplicate shortnames is a necessity and you still want the new and old system to exist simultaneously, you can also put both systems in a single CFG file.
 
 
+once implemented in your system you can use our Emulationstation Theme for Batocera, RetroBat, EmuELEC : https://github.com/CkauNui/ckau-book
+
+
 ## Credits
 
 - CFG autor:
