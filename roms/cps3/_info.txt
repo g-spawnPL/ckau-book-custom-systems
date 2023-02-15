@@ -1,0 +1,17 @@
+## SYSTEM CP SYSTEM III ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".zip .7z"
+
+ROMs must come from the FBNeo romset version 1.0.0.0
+
+The file FinalBurn Neo (ClrMame Pro XML, Arcade only).dat in bios/FBNeo may be used to check ROMs with clrmamepro available at http://mamedev.emulab.it/clrmamepro/
+
+For more info: https://wiki.batocera.org/arcade
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".zip .7z"
+
+Les ROMs doivent provenir du romset 1.0.0.0
+
+Le fichier FinalBurn Neo (ClrMame Pro XML, Arcade only).dat dans bios/FBNeo peut servir à valider les ROMs avec clrmamepro disponible sur http://mamedev.emulab.it/clrmamepro/
+
+Vous pouvez trouver la doc arcade là : https://wiki.batocera.org/arcade
