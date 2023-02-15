@@ -2,7 +2,7 @@
 
 <p>
 <img align="right" width="200px" src="https://i.imgur.com/eCZPBDE.png">
-Emulationstation Customize ES Systems for Batocera, RetroBat, EmuELEC.<br/>
+Emulationstation Customize ES Systems for Batocera.<br/>
 <br/>
 </p>
 <p>
