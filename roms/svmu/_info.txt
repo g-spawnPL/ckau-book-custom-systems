@@ -1,0 +1,7 @@
+## SYSTEM DREAMCAST VMU (Visual Memory Unit) ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".vms .bin .zip .7z"
+
+Requires MAME BIOS file svmu.zip
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".vms .bin .zip .7z"
