@@ -1,0 +1,7 @@
+## SYSTEM ORIC ATMOS ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".dsk .zip .7z"
+
+Requires MAME BIOS file oric1.zip and orica.zip
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".dsk .zip .7z"
