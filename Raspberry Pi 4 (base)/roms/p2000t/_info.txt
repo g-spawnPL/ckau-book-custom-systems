@@ -5,3 +5,16 @@ ROM files extensions accepted: ".cas .wav .zip .7z"
 Requires MAME BIOS file p2000t.zip saa5050.zip
 -------------------------------------------------------------------------------
 Extensions des fichiers ROMs permises: ".cas .wav .zip .7z"
+
+# Attempting to add on a system with custom config
+# This is required, as custom configs do not respect default settings, see https://wiki.batocera.org/emulationstation:customize_systems
+
+Instead put the emulator settings in /userdata/system/batocera.conf:
+-------------------------------------------------------------------------------
+p2000t.emulator=mame
+p2000t.core=mame
+
+The system name needs to be added to the list in /usr/share/batocera/configgen/data/mame/messSystems.csv for Batocera to recognize that it's a system where passing just the ROM name isn't enough, it also needs to pass the system name so MAME knows which console it is for.
+Here's what I put in, fields are systems;systemname;romtype;autorun:
+-------------------------------------------------------------------------------
+p2000t;p2000t;cass;
