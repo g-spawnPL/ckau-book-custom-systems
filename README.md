@@ -30,7 +30,7 @@ once implemented in your system you can use our Emulationstation Theme for Batoc
 
 - CFG autor:
   - g-spawn ([@g-spawnPL](https://github.com/g-spawnPL))
-  - Thanks to [@Lendersmark](https://github.com/Lendersmark) and [@CkauNui](https://github.com/CkauNui) for helping with the project
+  - Thanks to [@Lendersmark](https://github.com/Lendersmark), [@CkauNui](https://github.com/CkauNui) and [@n2qz](https://github.com/n2qz) for helping with the project
 - Based on:
   - batocera system (https://wiki.batocera.org/emulationstation:customize_systems)
 
