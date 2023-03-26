@@ -1,0 +1,5 @@
+## SYSTEM ATARI JAGUAR CD##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".j64 .jag .zip .7z .cue"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".j64 .jag .zip .7z cue."
