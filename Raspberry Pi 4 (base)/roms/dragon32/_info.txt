@@ -5,3 +5,16 @@ ROM files extensions accepted: ".mfi .dfi .hfe .mfm .td0 .imd .d77 .d88 .ldd .cq
 Requires MAME BIOS file dragon32.zip and dragon_fdc.zip
 -------------------------------------------------------------------------------
 Extensions des fichiers ROMs permises: ".dgn .vdk .cas .pak .zip .7z"
+
+# Attempting to add on a system with custom config
+# This is required, as custom configs do not respect default settings, see https://wiki.batocera.org/emulationstation:customize_systems
+
+Instead put the emulator settings in /userdata/system/batocera.conf:
+-------------------------------------------------------------------------------
+dragon32.emulator=mame
+dragon32.core=mame
+
+The system name needs to be added to the list in /usr/share/batocera/configgen/data/mame/messSystems.csv for Batocera to recognize that it's a system where passing just the ROM name isn't enough, it also needs to pass the system name so MAME knows which console it is for.
+Here's what I put in, fields are systems;systemname;romtype;autorun:
+-------------------------------------------------------------------------------
+dragon32;dragon32;cass;
