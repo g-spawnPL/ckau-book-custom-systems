@@ -2,7 +2,7 @@
 
 <p>
 <img align="right" width="200px" src="https://i.imgur.com/eCZPBDE.png">
-Emulationstation Customize ES Systems for Batocera.<br/>
+Emulationstation Customized ES Systems for Batocera and Retrobat.<br/>
 <br/>
 </p>
 <p>
@@ -18,21 +18,70 @@ Emulationstation Customize ES Systems for Batocera.<br/>
         <img src="https://img.shields.io/github/issues-pr-closed/g-spawnPL/batocera-custom-es_systems" /></a>
 </p>
 
-EmulationStation displays systems based on a file called es_systems.cfg. In other distributions, this is typically the only file. However, in Batocera FIXME and higher, the /userdata/system/configs/emulationstation/es_systems_&lt;custom_name>.cfg can be used as an overlay to the original /usr/share/emulationstation/es_systems.cfg file.
+## Purpose
 
-You must use a unique <name> field when adding a new system if you wish to keep the old one in addition. However, if using duplicate shortnames is a necessity and you still want the new and old system to exist simultaneously, you can also put both systems in a single CFG file.
+EmulationStation displays systems based on a file called es_systems.cfg. In other distributions, this is typically the only file. However, in Batocera FIXME and higher, and in Retrobat 5 and higher, one or more `es_systems_<custom_name>.cfg` files can be used as an overlay to the original `/usr/share/emulationstation/es_systems.cfg` file.
+
+This repository contains .cfg files for adding additional systems to your Batocera or Retrobat installation, all supported by [Ckau Book](https://github.com/CkauNui/ckau-book) theme.
+
+You must use a unique `<custom_name>` field when adding a new system if you wish to keep the old one in addition. However, if using duplicate shortnames is a necessity and you still want the new and old system to exist simultaneously, you can also put both systems in a single CFG file.
+
+Once implemented in your system, you can use our Emulationstation Theme: https://github.com/CkauNui/ckau-book
+
+## How to install new systems
+
+### Batocera
+
+Additional .cfg files are located in two directories of this repository:
+
+`/Batocera/Raspberry Pi 4 (base)/system`
+`/Batocera/x86 64bit (additional)/system`
+
+while .cfg files in `Raspberry Pi 4 (base)` can be used in any Batocera installation, the ones in `x86 64bit (additional)` can be only added in a x86 PC Batocera environment.
+
+To add the new systems, the desired .cfg files must be copied in the same directory as `es_systems.cfg`, which for Batocera is
+
+`/usr/share/emulationstation/`
+
+When done, for each added system you should create the proper `/roms/<system_name>` directory and put your roms into it.
+Please check the right name to create, following the examples located in `/Batocera/Raspberry Pi 4 (base)/roms` or `/Batocera/x86 64bit (additional)/roms` directories of this repository.
+
+You'll also find a `_info.txt` file that explains which extensions are allowed for each system.
+For some systems, there may be also the need to install additional emulators (check the same `_info.txt` file for instructions).
+
+A newly added system, if there is at least one rom file, will automatically be recognized by Batocera at the next boot.
 
 
-once implemented in your system you can use our Emulationstation Theme for Batocera, RetroBat, EmuELEC : https://github.com/CkauNui/ckau-book
+## Retrobat (WIP - Soon available!)
+
+Additional .cfg files are located in the following directory of this repository:
+
+`/Retrobat/system`
+
+Also for Retrobat, the additional .cfg files must be in the same directory as `es_systems.cfg`.
+However, Retrobat install location may vary according to what you have chosen during the installation profile.
+Assuming that Retrobat is installed in C:\Retrobat, `es_systems.cfg` directory is located in
+
+`C:\RetroBat\emulationstation\.emulationstation\`
+
+Please replace `C:\Retrobat` with your actual installation path.
+
+When done, for each added system you should create the proper `/roms/<system_name>` directory and put your roms into it.
+Please check the right name to create in the `/Retrobat/roms` directory of this repository.
+
+You'll also find a `_info.txt` file that explains which extensions are allowed for each system.
+For some systems, there may be also the need to install additional emulators in Retrobat (check the same `_info.txt` file for instructions).
+A newly added system, if there is at least one rom file, will automatically be recognized by Retrobat at the next boot.
 
 
 ## Credits
 
 - CFG autor:
-  - g-spawn ([@g-spawnPL](https://github.com/g-spawnPL))
-  - Thanks to [@Lendersmark](https://github.com/Lendersmark), [@CkauNui](https://github.com/CkauNui) and [@n2qz](https://github.com/n2qz) for helping with the project
+  - g-spawn ([@g-spawnPL](https://github.com/g-spawnPL)), [@Lendersmark](https://github.com/Lendersmark)
+  - Thanks to [@CkauNui](https://github.com/CkauNui) and [@n2qz](https://github.com/n2qz) for helping with the project
 - Based on:
-  - batocera system (https://wiki.batocera.org/emulationstation:customize_systems)
+  - Batocera system wiki (https://wiki.batocera.org/emulationstation:customize_systems)
+  - Retrobat system wiki (https://wiki.retrobat.org/systems-and-emulators/supported-game-systems)
 
 ## License
 
