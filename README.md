@@ -52,7 +52,7 @@ For some systems, there may be also the need to install additional emulators (ch
 A newly added system, if there is at least one rom file, will automatically be recognized by Batocera at the next boot.
 
 
-## Retrobat (WIP - Soon available!)
+### Retrobat (WIP - Soon available!)
 
 Additional .cfg files are located in the following directory of this repository:
 
