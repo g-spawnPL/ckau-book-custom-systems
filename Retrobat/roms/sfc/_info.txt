@@ -1,0 +1,5 @@
+## SYSTEM Nintendo Super Famicom ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".smc .SMC .fig .FIG .sfc .SFC .gd3 .GD3 .gd7 .GD7 .dx2 .DX2 .bsx .BSX .swc .SWC .rom .wad .WAD .ROM .zip .ZIP .7z .7Z"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".smc .SMC .fig .FIG .sfc .SFC .gd3 .GD3 .gd7 .GD7 .dx2 .DX2 .bsx .BSX .swc .SWC .rom .wad .WAD .ROM .zip .ZIP .7z .7Z"

@@ -1,0 +1,5 @@
+## SYSTEM Sega SC-3000 ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".sms .gg .sg .bin .rom .zip .7z"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".sms .gg .sg .bin .rom .zip .7z"

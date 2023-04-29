@@ -1,0 +1,5 @@
+## SYSTEM MSX Turbo-R ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".zip .7z .rom .ri .mx1 .mx2 .col .dsk .cas .sg .sc .m3u .ZIP .7Z .ROM .RI .MX1 .MX2 .COL .DSK .CAS .SG .SC .M3U"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".zip .7z .rom .ri .mx1 .mx2 .col .dsk .cas .sg .sc .m3u .ZIP .7Z .ROM .RI .MX1 .MX2 .COL .DSK .CAS .SG .SC .M3U"
