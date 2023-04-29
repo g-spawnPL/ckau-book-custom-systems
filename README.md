@@ -30,7 +30,7 @@ Once implemented in your system, you can use our Emulationstation Theme: https:/
 
 ## How to install new systems
 
-### Batocera
+### Batocera <img align="left" src="https://emulation.gametechwiki.com/images/thumb/9/91/Icon_Linux_Head.png/20px-Icon_Linux_Head.png">
 
 Additional .cfg files are located in two directories of this repository:
 
@@ -52,7 +52,7 @@ For some systems, there may be also the need to install additional emulators (ch
 A newly added system, if there is at least one rom file, will automatically be recognized by Batocera at the next boot.
 
 
-## Retrobat (WIP - Soon available!)
+## Retrobat (WIP - Soon available!) <img align="left" src="https://emulation.gametechwiki.com/images/thumb/1/1f/Icon_Windows_10.png/24px-Icon_Windows_10.png">
 
 Additional .cfg files are located in the following directory of this repository:
 
