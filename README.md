@@ -52,11 +52,11 @@ For some systems, there may be also the need to install additional emulators (ch
 A newly added system, if there is at least one rom file, will automatically be recognized by Batocera at the next boot.
 
 
-## Retrobat (WIP - Soon available!)
+## Retrobat
 
 Additional .cfg files are located in the following directory of this repository:
 
-`/Retrobat/system`
+`/Retrobat/emulationstation/.emulationstation`
 
 Also for Retrobat, the additional .cfg files must be in the same directory as `es_systems.cfg`.
 However, Retrobat install location may vary according to what you have chosen during the installation profile.
