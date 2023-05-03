@@ -1,0 +1,5 @@
+## SYSTEM FM Towns ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".m3u .d88 .d77 .xdf .iso .game .cd .chd .cue"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".m3u .d88 .d77 .xdf .iso .game .cd .chd .cue"

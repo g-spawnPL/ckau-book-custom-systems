@@ -1,0 +1,5 @@
+## SYSTEM GP32 ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".zip .7z .smc .ZIP .7Z .SMC"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".zip .7z .smc .ZIP .7Z .SMC"

@@ -1,0 +1,5 @@
+## SYSTEM Nintendo Super Nintendo CD ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".7z .bin .bs .smc .sfc .fig .swc .mgd .zip .7Z .BIN .BS .SMC .SFC .FIG .SWC .MGD .ZIP"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".7z .bin .bs .smc .sfc .fig .swc .mgd .zip .7Z .BIN .BS .SMC .SFC .FIG .SWC .MGD .ZIP"

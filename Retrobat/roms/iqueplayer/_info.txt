@@ -1,0 +1,5 @@
+## SYSTEM iQue Player ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".v64 .z64 .n64 .zip .7z .V64 .Z64 .N64 .ZIP .7Z"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".v64 .z64 .n64 .zip .7z .V64 .Z64 .N64 .ZIP .7Z"

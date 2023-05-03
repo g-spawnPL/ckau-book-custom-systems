@@ -1,0 +1,5 @@
+## SYSTEM Socrates ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".bin .zip .7z .BIN .ZIP .7Z"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".bin .zip .7z .BIN .ZIP .7Z"
