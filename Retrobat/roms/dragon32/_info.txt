@@ -1,0 +1,5 @@
+## SYSTEM Dragon 32 ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".mfi .dfi .hfe .mfm .td0 .imd .d77 .d88 .ldd .cqm .cqi .dsk .dmk .jvc .vdk .sdf .os9 .ccc .rom .cas .wav .zip .7z .MFI .DFI .HFE .MFM .TD0 .IMD .D77 .D88 .LDD .CQM .CQI .DSK .DMK .JVC .VDK .SDF .OS9 .CCC .ROM .CAS .WAV .ZIP .7Z"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".mfi .dfi .hfe .mfm .td0 .imd .d77 .d88 .ldd .cqm .cqi .dsk .dmk .jvc .vdk .sdf .os9 .ccc .rom .cas .wav .zip .7z .MFI .DFI .HFE .MFM .TD0 .IMD .D77 .D88 .LDD .CQM .CQI .DSK .DMK .JVC .VDK .SDF .OS9 .CCC .ROM .CAS .WAV .ZIP .7Z"
