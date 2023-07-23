@@ -1,0 +1,5 @@
+## SYSTEM PDP-1 ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".zip .7z .tap .rim .drm .ZIP .7Z .TAP .RIM .DRM"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".zip .7z .tap .rim .drm .ZIP .7Z .TAP .RIM .DRM"

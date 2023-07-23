@@ -1,0 +1,5 @@
+## SYSTEM Sega Nomad ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".68k .68K .sgd .SGD .smd .bin .gen .md .sg .wad .WAD .SMD .BIN .GEN .MD .SG .zip .ZIP .7z .7Z"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".68k .68K .sgd .SGD .smd .bin .gen .md .sg .wad .WAD .SMD .BIN .GEN .MD .SG .zip .ZIP .7z .7Z"

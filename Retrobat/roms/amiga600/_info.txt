@@ -1,0 +1,5 @@
+## SYSTEM Amiga 600 ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".adf .uae .ipf .dms .dmz .adz .lha .hdf .exe .m3u .zip"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".adf .uae .ipf .dms .dmz .adz .lha .hdf .exe .m3u .zip"
