@@ -1,0 +1,9 @@
+## SYSTEM SUPER NINTENDO ENTERTAINMENT SYSTEM HACK ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".smc .fig .sfc .gd3 .gd7 .dx2 .bsx .swc .zip .7z"
+
+For more info: https://wiki.batocera.org/systems:snes
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".smc .fig .sfc .gd3 .gd7 .dx2 .bsx .swc .zip .7z"
+
+Trouvez la documentation ici: https://wiki.batocera.org/systems:snes

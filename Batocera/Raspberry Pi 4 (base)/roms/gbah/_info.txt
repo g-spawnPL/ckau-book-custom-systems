@@ -1,0 +1,9 @@
+## SYSTEM GAME BOY ADVANCE HACK##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".gba .zip .7z"
+
+For more info: https://wiki.batocera.org/systems:gba
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".gba .zip .7z"
+
+Trouvez la documentation ici: https://wiki.batocera.org/systems:gba

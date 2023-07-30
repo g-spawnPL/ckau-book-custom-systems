@@ -1,0 +1,9 @@
+## SYSTEM GAME BOY HACK ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".gb .zip .7z"
+
+For more info: https://wiki.batocera.org/systems:gb
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".gb .zip .7z"
+
+Trouvez la documentation ici: https://wiki.batocera.org/systems:gb

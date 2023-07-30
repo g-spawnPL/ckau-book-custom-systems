@@ -1,0 +1,9 @@
+## SYSTEM NINTENDO ENTERTAINMENT SYSTEM HACK ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".nes .unif .unf .zip .7z"
+
+For more info: https://wiki.batocera.org/systems:nes
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".nes .unif .unf .zip .7z"
+
+Trouvez la documentation ici: https://wiki.batocera.org/systems:nes

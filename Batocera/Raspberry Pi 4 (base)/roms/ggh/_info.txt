@@ -1,0 +1,5 @@
+## SYSTEM GAME GEAR HACK ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".bin .gg .zip .7z"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".bin .gg .zip .7z"

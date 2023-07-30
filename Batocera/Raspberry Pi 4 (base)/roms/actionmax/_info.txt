@@ -1,5 +1,9 @@
 ## SYSTEM ACTIONMAX ##
 -------------------------------------------------------------------------------
-ROM files extensions accepted: ".daphne"
+ROM files extensions accepted: ".daphne .squashfs"
+
+For more info: https://wiki.batocera.org/systems:daphne
 -------------------------------------------------------------------------------
-Extensions des fichiers ROMs permises: ".daphne"
+Extensions des fichiers ROMs permises: ".daphne .squashfs"
+
+Trouvez la documentation ici: https://wiki.batocera.org/systems:daphne
