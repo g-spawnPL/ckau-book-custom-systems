@@ -1,0 +1,5 @@
+## SYSTEM BIGFISH ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".pc .exe .wine .wsquashfs .wtgz"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".pc .exe .wine .wsquashfs .wtgz"

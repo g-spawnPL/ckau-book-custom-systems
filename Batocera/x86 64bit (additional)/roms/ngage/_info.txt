@@ -1,0 +1,5 @@
+## SYSTEM N-Gage ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".cmd .CMD"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".cmd .CMD"
