@@ -1,0 +1,5 @@
+## SYSTEM Commodore CBM-II ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".a0 .b0 .crt .d64 .d81 .prg .tap .t64 .m3u .zip .7z .A0 .B0 .CRT .D64 .D81 .PRG .TAP .T64 .M3U .ZIP .7Z"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".a0 .b0 .crt .d64 .d81 .prg .tap .t64 .m3u .zip .7z .A0 .B0 .CRT .D64 .D81 .PRG .TAP .T64 .M3U .ZIP .7Z"
