@@ -1,0 +1,5 @@
+## SYSTEM ACTIONMAX ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".daphne"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".daphne"
