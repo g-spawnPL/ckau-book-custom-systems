@@ -1,0 +1,5 @@
+## SYSTEM Laseractive ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".daphne .7z .zip .rar .squashfs"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".daphne .7z .zip .rar .squashfs"

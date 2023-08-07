@@ -1,4 +1,4 @@
-## SYSTEM Acorn Electron ##
+## SYSTEM Electron ##
 -------------------------------------------------------------------------------
 ROM files extensions accepted: ".wav .csw .uef .mfi .dfi .hfe .mfm .td0 .imd .d77 .d88 .1dd .cqm .cqi .dsk .ssd .bbc .img .dsd .adf .ads .adm .adl .rom .bin .zip .7z .WAV .CSW .UEF .MFI .DFI .HFE .MFM .TD0 .IMD .D77 .D88 .1DD .CQM .CQI .DSK .SSD .BBC .IMG .DSD .ADF .ADS .ADM .ADL .ROM .BIN .ZIP .7Z"
 -------------------------------------------------------------------------------

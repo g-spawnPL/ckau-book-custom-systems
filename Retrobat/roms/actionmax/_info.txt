@@ -1,5 +1,5 @@
-## SYSTEM Sony PocketStation ##
+## SYSTEM Actionmax ##
 -------------------------------------------------------------------------------
-ROM files extensions accepted: ".gme .zip .7z .GME .7Z"
+ROM files extensions accepted: ".actionmax"
 -------------------------------------------------------------------------------
-Extensions des fichiers ROMs permises: ".gme .zip .7z .GME .7Z"
+Extensions des fichiers ROMs permises: ".actionmax"
