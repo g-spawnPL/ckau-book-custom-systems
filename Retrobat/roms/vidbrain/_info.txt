@@ -1,5 +1,5 @@
-## SYSTEM Sony PocketStation ##
+## SYSTEM Videobrain Family Computer ##
 -------------------------------------------------------------------------------
-ROM files extensions accepted: ".gme .zip .7z .GME .7Z"
+ROM files extensions accepted: ".7z .zip"
 -------------------------------------------------------------------------------
-Extensions des fichiers ROMs permises: ".gme .zip .7z .GME .7Z"
+Extensions des fichiers ROMs permises: ".7z .zip"

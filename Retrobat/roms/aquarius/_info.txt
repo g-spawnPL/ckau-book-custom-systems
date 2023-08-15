@@ -1,0 +1,5 @@
+## SYSTEM Aquarius Home Computer System ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".7z .zip .bin .caq .wav"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".7z .zip .bin .caq .wav"
