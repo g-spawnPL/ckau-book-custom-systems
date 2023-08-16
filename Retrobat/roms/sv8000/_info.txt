@@ -1,0 +1,5 @@
+## SYSTEM Super Vision 8000 ##
+-------------------------------------------------------------------------------
+ROM files extensions accepted: ".bin .7z .zip"
+-------------------------------------------------------------------------------
+Extensions des fichiers ROMs permises: ".bin .7z .zip"
