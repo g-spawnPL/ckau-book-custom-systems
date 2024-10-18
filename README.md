@@ -51,29 +51,6 @@ For some systems, there may be also the need to install additional emulators (ch
 
 A newly added system, if there is at least one rom file, will automatically be recognized by Batocera at the next boot.
 
-
-## Retrobat <img align="left" src="https://emulation.gametechwiki.com/images/thumb/1/1f/Icon_Windows_10.png/24px-Icon_Windows_10.png">
-
-Additional .cfg files are located in the following directory of this repository:
-
-`/Retrobat/system`
-
-Also for Retrobat, the additional .cfg files must be in the same directory as `es_systems.cfg`.
-However, Retrobat install location may vary according to what you have chosen during the installation profile.
-Assuming that Retrobat is installed in C:\Retrobat, `es_systems.cfg` directory is located in
-
-`C:\RetroBat\emulationstation\.emulationstation\`
-
-Please replace `C:\Retrobat` with your actual installation path.
-
-When done, for each added system you should create the proper `/roms/<system_name>` directory and put your roms into it.
-Please check the right name to create in the `/Retrobat/roms` directory of this repository.
-
-You'll also find a `_info.txt` file that explains which extensions are allowed for each system.
-For some systems, there may be also the need to install additional emulators in Retrobat (check the same `_info.txt` file for instructions).
-A newly added system, if there is at least one rom file, will automatically be recognized by Retrobat at the next boot.
-
-
 ## Credits
 
 - CFG autor:
