@@ -54,7 +54,7 @@ A newly added system, if there is at least one rom file, will automatically be r
 ## Credits
 
 - CFG autor:
-  - g-spawn ([@g-spawnPL](https://github.com/g-spawnPL)), [@Lendersmark](https://github.com/Lendersmark)
+  - g-spawn and RGS Team ([@g-spawnPL](https://github.com/g-spawnPL)), [@Lendersmark](https://github.com/Lendersmark)
   - Thanks to [@CkauNui](https://github.com/CkauNui) and [@n2qz](https://github.com/n2qz) for helping with the project
 - Based on:
   - Batocera system wiki (https://wiki.batocera.org/emulationstation:customize_systems)
