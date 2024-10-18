@@ -1,5 +1,0 @@
-## SYSTEM Commodore 16 ##
--------------------------------------------------------------------------------
-ROM files extensions accepted: ".d64 .prg .tap .m3u .zip .7z .D64 .PRG .TAP .M3U .ZIP .7Z"
--------------------------------------------------------------------------------
-Extensions des fichiers ROMs permises: ".d64 .prg .tap .m3u .zip .7z .D64 .PRG .TAP .M3U .ZIP .7Z"

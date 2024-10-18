@@ -1,5 +1,0 @@
-## SYSTEM GOG.com ##
--------------------------------------------------------------------------------
-ROM files extensions accepted: ".exe .bat .cmd .lnk .url .EXE .BAT .CMD .LNK .URL"
--------------------------------------------------------------------------------
-Extensions des fichiers ROMs permises: ".exe .bat .cmd .lnk .url .EXE .BAT .CMD .LNK .URL"

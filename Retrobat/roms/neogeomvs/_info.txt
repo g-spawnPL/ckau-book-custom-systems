@@ -1,5 +1,0 @@
-## SYSTEM Neo Geo MVS ##
--------------------------------------------------------------------------------
-ROM files extensions accepted: ".zip .wad .7z"
--------------------------------------------------------------------------------
-Extensions des fichiers ROMs permises: ".zip .wad .7z"

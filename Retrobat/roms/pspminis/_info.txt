@@ -1,5 +1,0 @@
-## SYSTEM PlayStation Portable Minis ##
--------------------------------------------------------------------------------
-ROM files extensions accepted: ".iso .ISO .cso .CSO .pbp .PBP"
--------------------------------------------------------------------------------
-Extensions des fichiers ROMs permises: ".iso .ISO .cso .CSO .pbp .PBP"

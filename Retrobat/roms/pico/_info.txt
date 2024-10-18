@@ -1,5 +1,0 @@
-## SYSTEM Sega Pico ##
--------------------------------------------------------------------------------
-ROM files extensions accepted: ".smd .bin .gen .md .sg .zip .7z .SMD .BIN .GEN .MD .SG .ZIP .7Z"
--------------------------------------------------------------------------------
-Extensions des fichiers ROMs permises: ".smd .bin .gen .md .sg .zip .7z .SMD .BIN .GEN .MD .SG .ZIP .7Z"

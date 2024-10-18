@@ -1,5 +1,0 @@
-## SYSTEM Nintendo Family Computer ##
--------------------------------------------------------------------------------
-ROM files extensions accepted: ".fds .nes .wad .zip .7z"
--------------------------------------------------------------------------------
-Extensions des fichiers ROMs permises: ".fds .nes .wad .zip .7z"

@@ -1,5 +1,0 @@
-## SYSTEM Aamber Pegasus ##
--------------------------------------------------------------------------------
-ROM files extensions accepted: ".BIN .ZIP .7Z"
--------------------------------------------------------------------------------
-Extensions des fichiers ROMs permises: ".BIN .ZIP .7Z"

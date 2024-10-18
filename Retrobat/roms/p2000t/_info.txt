@@ -1,5 +1,0 @@
-## SYSTEM Philips P2000 ##
--------------------------------------------------------------------------------
-ROM files extensions accepted: ".zip .7z .cas .wav .ZIP .7Z .WAV .CAS"
--------------------------------------------------------------------------------
-Extensions des fichiers ROMs permises: ".zip .7z .cas .wav .ZIP .7Z .WAV .CAS"

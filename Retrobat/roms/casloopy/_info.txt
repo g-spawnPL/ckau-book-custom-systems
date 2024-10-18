@@ -1,5 +1,0 @@
-## SYSTEM Casio Loopy ##
--------------------------------------------------------------------------------
-ROM files extensions accepted: ".zip .7z .bin .ic1 .ZIP .7Z .BIN .IC1"
--------------------------------------------------------------------------------
-Extensions des fichiers ROMs permises: ".zip .7z .bin .ic1 .ZIP .7Z .BIN .IC1"

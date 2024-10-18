@@ -1,5 +1,0 @@
-## SYSTEM VC 4000 ##
--------------------------------------------------------------------------------
-ROM files extensions accepted: ".bin .rom .pgm .tvc .zip .7z .BIN .ROM .PGM .TVC .ZIP .7Z"
--------------------------------------------------------------------------------
-Extensions des fichiers ROMs permises: ".bin .rom .pgm .tvc .zip .7z .BIN .ROM .PGM .TVC .ZIP .7Z"

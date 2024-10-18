@@ -1,5 +1,0 @@
-## SYSTEM Nintendo WiiWare ##
--------------------------------------------------------------------------------
-ROM files extensions accepted: ".gcz .iso .ciso .wbfs .wad .rvz .wia .elf .json"
--------------------------------------------------------------------------------
-Extensions des fichiers ROMs permises: ".gcz .iso .ciso .wbfs .wad .rvz .wia .elf .json"

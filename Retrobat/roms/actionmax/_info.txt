@@ -1,5 +1,0 @@
-## SYSTEM Actionmax ##
--------------------------------------------------------------------------------
-ROM files extensions accepted: ".actionmax"
--------------------------------------------------------------------------------
-Extensions des fichiers ROMs permises: ".actionmax"
