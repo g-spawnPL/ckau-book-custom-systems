@@ -30,7 +30,7 @@ Once implemented in your system, you can use our Emulationstation Theme: https:/
 
 ## How to install new systems
 
-### Batocera <img align="left" src="https://emulation.gametechwiki.com/images/thumb/9/91/Icon_Linux_Head.png/20px-Icon_Linux_Head.png">
+### Batocera <img align="left" src="https://batocera.org/images/head/logo-tri.png">
 
 Additional .cfg files are located in two directories of this repository:
 
